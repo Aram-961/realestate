@@ -47,7 +47,7 @@ const Home = ({ propertyForSale, propertyForRent }) => {
         title2="Luxurious Home"
         desc1="Explore Apartments, Villas, Homes"
         desc2="and more"
-        ButtonText="Explore Renting"
+        ButtonText="Explore Buying"
         linkName="/search?purpose=for-sale"
         imageUrl='https://bayut-production.s3.eu-central-1.amazonaws.com/image/110993385/6a070e8e1bae4f7d8c1429bc303d2008'
       />
